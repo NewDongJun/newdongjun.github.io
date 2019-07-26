@@ -1,1 +1,1 @@
-# [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
+# [NewDongJun.github.io](https://newdongjun.github.io)
