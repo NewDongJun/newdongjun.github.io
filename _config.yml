@@ -290,7 +290,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
-      share: true
+      read_time: true #해당 포스트를 읽는 시간 표시 기본값은 true
+      comments: true
+      share: true #포스트 공유 기능
       related: true
