@@ -113,8 +113,8 @@ author:
   bio              : "중앙대학교 소프트웨어학부"
   location         : "서울특별시"
   email            : "shindj4613@cau.ac.kr"
-  #github           : "newdongjun"
-  facebook         : "01092389574"
+  github           : "newdongjun"
+  facebook         : "821092389574"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
