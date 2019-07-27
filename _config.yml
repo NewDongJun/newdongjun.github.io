@@ -20,7 +20,7 @@ title                    : "NewDongJun's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Dongjun Shin"
-description              : "An amazing website."
+description              : "개인 블로그입니다."
 url                      : "https://newdongjun.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "NewdongJun/newdongjun.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -76,6 +76,7 @@ algolia:
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
+
 # SEO Related
 google_site_verification :
 bing_site_verification   :
@@ -112,6 +113,7 @@ author:
   bio              : "중앙대학교 소프트웨어학부"
   location         : "서울특별시"
   email            : "shindj4613@cau.ac.kr"
+  github           : "newdongjun"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -127,7 +129,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+       url: "https://github.com/newdongjun"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -143,7 +145,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+       url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
