@@ -90,7 +90,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/ang_dae.jpg" # Open Graph/Twitter default site image
+og_image                 : "/assets/images/og_image_ang_dae.jpg" # Open Graph/Twitter default site image/카카오톡 링크 보낼때 뜨는 사진
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
