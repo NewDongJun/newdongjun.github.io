@@ -90,7 +90,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "/assets/images/ang_dae.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -109,9 +109,9 @@ analytics:
 # Site Author
 author:
   name             : "신동준"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg" #프로필사진
+  avatar           : "/assets/images/avatar_image.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg" #프로필사진
   bio              : "중앙대학교 소프트웨어학부"
-  location         : "서울특별시"
+  location         : "South Korea"
   email            : "shindj4613@cau.ac.kr"
   github           : "newdongjun"
   facebook         : "dongjun1212"
@@ -135,7 +135,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
-# Site Footer
+# Site Footer 사이트의 밑부분
 footer:
   links:
     - label: "Twitter"
@@ -146,7 +146,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/newdongjun"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -297,3 +297,15 @@ defaults:
       comments: true
       share: true #포스트 공유 기능
       related: true
+
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false
+      share: true
+      related: false
