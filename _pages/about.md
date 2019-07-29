@@ -3,8 +3,14 @@ title: About
 permalink: /about/
 layout: archive
 author_profile: true
+
 toc: true
+toc_sticky: true
+#header:
+# overlay_image: /assets/images/chung_ang.jpg
 ---
+
+
 
 ## 신동준
 
