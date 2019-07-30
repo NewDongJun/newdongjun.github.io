@@ -4,6 +4,7 @@ strapline: "only englis?"
 #description: "description"
 header:
  overlay_image: /assets/images/maso1.jpg 
+ overlay_filter: 0.5
 excerpt: "테스트 페이지" #미리보기 부분
 
 toc: true
