@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Me
 permalink: /about/
 layout: archive
 author_profile: true
@@ -11,8 +11,7 @@ toc_sticky: true
 ---
 
 
-
-## 신동준
-
-공사중
-네 뭐 그렇습니다.
+## Contact
+## Education
+## Research experience
+## Career
